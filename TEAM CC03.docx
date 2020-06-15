@@ -1,0 +1,118 @@
+
+Team Report
+                 TEAM3-CC03
+ 
+
+
+
+
+Project Details
+
+Domain Selected: HEALTHCARE    
+Project Name: HEALTHCARE MANAGEMENT SYSTEM FOR HOSPITAL STAFF/NURSES
+Date Submitted: 10th June, 2020
+
+
+Project Description (Synopsis)
+
+A hospital management system is an information system that manages the aspects of a hospital. This may include the administrative, financial, and medical processing.
+
+It is an integrated end-to-end Hospital Management System that provides relevant information across the hospital to support effective decision making for patient care, hospital administration and critical financial accounting, in a seamless flow. 
+
+This program can look after:
+
+Patients records 
+Doctor availability records
+Appointment booking slot
+Database treatments 
+Status illness 
+Billings
+Inventory for medicines, PPE kit, ventilators etc.
+Information track regarding COVID-19 patient 
+Test report generation   
+It also maintains their hospital info such as ward id, doctor in Charge, department administering etc.
+
+
+
+
+Project Justification ( Need)
+
+Minimized documentation and no duplication of records. 
+Reduced paper work. 
+Improved Patient Care 
+Better Administration Control 
+Faster information flow between various departments 
+Smart Revenue Management 
+Effective billing of various services 
+Exact stock information
+
+
+Requirements
+
+OOP using C++
+
+
+
+Monthly Milestones (Timeline for achievement) 
+
+
+15th June, 2020 – 30th June, 2020 – Practice of C and C++, through the given resources.
+1st July, 2020 – 31th July, 2020 – Initiate the project and its further development by whole team.
+ 1st August, 2020 – 31st August, 2020 – Wrapping up and final implementation of the project.
+
+  
+Plan for the Work Flow of the Uplift Project in Team CC03 (Approach)
+
+We (mentors) will keep the track of the progress and maintain the deadlines in spreadsheets for all the mentees.
+We will share the resources time to time starting from Github to our tech domain technology (i.e. C & C++ Programming)
+We will also mentor all the participants for regarding the opportunities and future goals.
+We will give assignments, quizzes (on poll in slack) and will monitor the development of the HEALTCARE project to be undertaken as team.
+We will organize session (once in a while/15 days) for effective coordination and teamwork.
+
+
+TEAM DETAILS 
+
+TEAM3-CC03
+
+NAME
+EMAIL ID
+ROLE
+Aryan Gulati
+aryangulati2810@gmail.com
+Mentor
+Hemakshi Pandey
+mahe173fas@gmail.com
+Mentor
+Vrinda Kartha
+karthaav9@gmail.com
+Mentor
+Harsha Garine
+garineharshavardhan@gmail.com
+Moderator
+Falguni Sarkar
+falgunisarkar526@gmail.com
+Mentee
+Gaurav Madan
+gauravmadan583@gmail.com
+Mentee
+Charmi routh
+charmi99routh@gmail.com
+Mentee
+Anshuman Rout
+anshumanrout18107@gmail.com
+Mentee
+Ayushi Agarwal
+ayushiawesome10@gmail.com
+Mentee
+Anjali Gupta
+guptaanjali7786@gmail.com
+Mentee
+Anmol
+anmolsoin1@gmail.com
+Mentee
+Apoorva Gupta
+gupta.apoo98@gmail.com
+Mentee
+
+
+
